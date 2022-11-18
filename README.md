@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from Italy, based in Málaga</h3>
 
 
-- 🔭 I’m currently working on 42 project [push swap](https://github.com/ilenia-carboni/push_swap)
+- 🔭 I’m currently working on 42 project [push swap](https://github.com/icarboni/push_swap)
 
 - 🌱 I’m currently learning **C#, Angular, C, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ilenia-carboni](https://github.com/ilenia-carboni)
+- 👨‍💻 All of my projects are available at [https://github.com/ilenia-carboni](https://github.com/icarboni)
 
 - 💬 Ask me about **C**
 
