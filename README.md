@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C#, Angular, C, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ilenia-carboni](https://github.com/icarboni)
+- 👨‍💻 All of my projects are available at [https://github.com/icarboni](https://github.com/icarboni)
 
 - 💬 Ask me about **C**
 
