@@ -68,10 +68,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icarboni&show_icons=true&theme=synthwave&locale=en" alt="icarboni" /></p>
 
-
-
-[![icarboni's 42 stats](https://badge42.vercel.app/api/v2/cl88qineg00490gl7wctelxdl/stats?cursusId=21&coalitionId=276)](https://github.com/JaeSeoKim/badge42)
-
-
-
+[![icarboni's 42 stats](https://badge.mediaplus.ma/starryblue/icarboni?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
