@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilenia</h1>
-<h3 align="center">A passionate frontend developer from Italy, based in Málaga</h3>
+<h3 align="center">A passionate developer from Italy, based in Málaga</h3>
 
 
 - 🔭 I’m currently working on 42 project [push swap](https://github.com/icarboni/push_swap)
