@@ -3,13 +3,9 @@
 <h3 align="center">A passionate developer from Italy, based in Málaga</h3>
 
 
-- 🔭 I’m currently working on 42 project [push swap](https://github.com/icarboni/push_swap)
-
 - 🌱 I’m currently learning **C#, Angular, C, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/icarboni](https://github.com/icarboni)
-
-- 💬 Ask me about **C**
 
 - 📫 How to reach me **ile.carboni@gmail.com**
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=icarboni&label=Profile%20views&color=e13d84&style=flat" alt="icarboni" /> </p>
