@@ -60,8 +60,3 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icarboni&show_icons=true&theme=synthwave&locale=en" alt="icarboni" /></p>
-
-[![icarboni's 42 stats](https://badge.mediaplus.ma/starryblue/icarboni?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
