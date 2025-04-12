@@ -1,12 +1,11 @@
 ![93_i would like a github header, showing my back (a g_xl-1024-v1-0](https://github.com/icarboni/icarboni/assets/28051357/e692991c-5b29-412e-aecf-df6239927317)
 <h1 align="center">Hi 👋, I'm Ilenia</h1>
 <h3 align="center">A passionate developer from Italy, based in Málaga</h3>
-📫 How to reach me **ile.carboni@gmail.com**
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=icarboni&label=Profile%20views&color=e13d84&style=flat" alt="icarboni" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ilenia-carboni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilenia-carboni" height="30" width="40" /></a>
+<p align="left" >
+<a href="https://linkedin.com/in/ilenia-carboni" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="ilenia-carboni" height="30"  /></a>
+<a href="mailto:ile.carboni@gmail.com" target="blank"><img align="center" src="https://cdn.creazilla.com/cliparts/79020/mail-icon-clipart-original.png" alt="ile.carboni@gmail.com" height="30" /></a>
 </p>
 <br>
 
