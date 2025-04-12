@@ -1,13 +1,7 @@
 ![93_i would like a github header, showing my back (a g_xl-1024-v1-0](https://github.com/icarboni/icarboni/assets/28051357/e692991c-5b29-412e-aecf-df6239927317)
 <h1 align="center">Hi 👋, I'm Ilenia</h1>
 <h3 align="center">A passionate developer from Italy, based in Málaga</h3>
-
-
-- 🌱 I’m currently learning **C#, Angular, C, Node.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/icarboni](https://github.com/icarboni)
-
-- 📫 How to reach me **ile.carboni@gmail.com**
+📫 How to reach me **ile.carboni@gmail.com**
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=icarboni&label=Profile%20views&color=e13d84&style=flat" alt="icarboni" /> </p>
 
 <h3 align="left">Connect with me:</h3>
