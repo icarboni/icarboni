@@ -1,6 +1,6 @@
 ![93_i would like a github header, showing my back (a g_xl-1024-v1-0](https://github.com/icarboni/icarboni/assets/28051357/e692991c-5b29-412e-aecf-df6239927317)
 <h1 align="center">Hi 👋, I'm Ilenia</h1>
-<h3 align="center">A passionate developer from Italy, based in Málaga</h3>
+<h3 align="center">A passionate developer from Italy, based in Málaga, Spain</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
